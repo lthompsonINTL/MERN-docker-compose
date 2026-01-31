@@ -1,4 +1,5 @@
-# A simple MERN stack application  This code was copied from https://github.com/iam-veeramalla/MERN-docker-compose for project purposes. I did not write this code. I am using this code for DevOps projects
+# A simple MERN stack application.
+# This code was copied from https://github.com/iam-veeramalla/MERN-docker-compose for project purposes. I did not write this code. I am using this code for DevOps projects
 
 ### Create a network for the docker containers
 
@@ -37,5 +38,6 @@ docker build -t mern-backend .
 ## Using Docker Compose
 
 `docker compose up -d`
+
 
 
